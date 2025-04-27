@@ -24,13 +24,7 @@ the data.
 various visualizations to present key insights from the analysis.
 
 Approach:  
-{ 
-"reviewer_id": "unique_reviewer_id", 
-"reviewer_name": "reviewer_name", 
-"comment": "review_comment", 
-"rating": "review_rating" 
-}, ... 
-], ... 
+
 1. MongoDB Connection and Data Retrieval: Establish a connection to the 
 MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and 
 data retrieval operations to extract the necessary information for your analysis. 
